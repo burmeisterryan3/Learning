@@ -8,11 +8,11 @@
     "[python]": {
         "editor.rulers": [
             {
-                "column": 80,
+                "column": 120,
                 "color": "#3cff00"
             },
             {
-                "column": 100,
+                "column": 140,
                 "color": "#ff2fc1"
             }
         ],
