@@ -43,7 +43,7 @@ typeCheckingMode = "basic"
 # Discover Jupyter Notbeook files in any specified directories and lint them
 extend-include = ["*.ipynb"]
 
-line-length = 100
+line-length = 120
 indent-width = 4
 fix = true
 target-version = "py313"
