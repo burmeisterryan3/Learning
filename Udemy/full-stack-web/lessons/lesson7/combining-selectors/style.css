@@ -1,0 +1,26 @@
+/* Write your code here: */
+
+/* Select h1 & h2 elements */
+h1, h2 {
+    color: blueviolet;
+}
+
+/* Select p that are direct descendents of div */
+div > p {
+    color: firebrick
+}
+
+/* Select li having an ancestor with class .box (not just direct descendents) */
+.box li {
+    color: blue;
+}
+
+/* Select li with class done */
+li.done {
+    color: seagreen;
+}
+
+/* Select p with class done having a ul ancestor ul */
+ul p.done {
+    font-size: 0.5rem;
+}
